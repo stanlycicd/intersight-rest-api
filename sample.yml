@@ -5,7 +5,7 @@
   gather_facts: false
   vars:
     #Enter the location of secret.txt with Intersight Secret Key
-    api_private_key: "/home/PODX/intersight-ansible/secret.txt"
+    api_private_key: "/home/PODX/intersight-rest-api/secret.txt"
     #Enter the API Key ID from Intersight
     api_key_id: "61e075b87564612d33952212/61e5a6c57564612d30792496/620562087564612d301e72fc"
     #Enter the Organization, Replace X with POD number
